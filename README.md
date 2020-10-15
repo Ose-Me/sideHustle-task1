@@ -1,1 +1,7 @@
-# sideHustle-task1
+# Name
+Osemudiamen Eronlan
+
+# Slack ID
+osemudiamen
+
+# summary
